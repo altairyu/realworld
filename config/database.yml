@@ -14,7 +14,6 @@ test:
   <<: *default
 
 production:
-  production:
   database: realworld_production
   adapter: mysql2
   encoding: utf8mb4
