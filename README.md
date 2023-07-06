@@ -75,6 +75,8 @@ RealWorld のバックエンドの API を AWS 上にデプロイしてくださ
 
 https://castingmsg.com
 
+※ 画面の用意ができていません。下記のGET例で接続の確認ができます。
+
 CREATE：https://castingmsg.com/api/articles  
 GET：https://castingmsg.com/api/articles/:slug  
 
