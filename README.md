@@ -76,14 +76,16 @@ RealWorld のバックエンドの API を AWS 上にデプロイしてくださ
 https://castingmsg.com
 
 CREATE：https://castingmsg.com/api/articles
+
 GET：https://castingmsg.com/api/articles/:slug
+
 
 <details>
 
-<summary><h3>例1</h3></summary>
+<summary><h4>GET 例</h4></summary>
 https://castingmsg.com/api/articles/how-to-train-your-dragon
 
-レスポンス
+RAWデータで以下のレスポンスが表示されます。
 ```
 {"article":{"slug":"how-to-train-your-dragon","title":"How to train your dragon",
 "description":"Ever wonder how?","body":"You have to believe",
@@ -93,6 +95,8 @@ https://castingmsg.com/api/articles/how-to-train-your-dragon
 </details>
 
 UPDATE：https://castingmsg.com/api/articles/:slug
+
+
 DELETE：https://castingmsg.com/api/articles/:slug
 
 
