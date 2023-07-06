@@ -77,8 +77,8 @@ https://castingmsg.com
 
 ※ 画面の用意ができていません。下記のGET例で接続の確認ができます。
 
-CREATE：https://castingmsg.com/api/articles  
-GET：https://castingmsg.com/api/articles/:slug  
+Create：https://castingmsg.com/api/articles  
+Get：https://castingmsg.com/api/articles/:slug  
 
 
 <details>
@@ -97,8 +97,8 @@ RAWデータで以下のレスポンスが表示されます。
 
 </details>
 
-UPDATE：https://castingmsg.com/api/articles/:slug  
-DELETE：https://castingmsg.com/api/articles/:slug
+Update：https://castingmsg.com/api/articles/:slug  
+Delete：https://castingmsg.com/api/articles/:slug
 
 
 
