@@ -83,7 +83,7 @@ GET：https://castingmsg.com/api/articles/:slug
 
 <summary><h4>GET 例</h4></summary>
 
-["https://castingmsg.com/api/articles/how-to-train-your-dragon"](https://castingmsg.com/api/articles/how-to-train-your-dragon){:target="_blank"}
+https://castingmsg.com/api/articles/how-to-train-your-dragon
 
 RAWデータで以下のレスポンスが表示されます。
 
